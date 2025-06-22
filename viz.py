@@ -2,6 +2,7 @@ import trimesh
 import pyrender
 import numpy as np
 
+
 # Load the GLB file
 glb_file_example = "data/vggt_output/input_images_20250622_102110_094677/glbscene_50_All_maskbFalse_maskwFalse_camTrue_skyFalse_predDepthmap_and_Camera_Branch.glb"
 
